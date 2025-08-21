@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+.text-primary {
+    color: #081e5f;
+}
+.text-accent {
+    color: #1c3687;  /* Updated for better harmony */
+}
+.text-cardBg {
+    color: #2d5aa0;  /* Updated for better contrast */
+}
+
+.bg-primary {
+    background-color: #081e5f;
+}
+.bg-accent {
+    background-color: #1c3687;  /* Updated for better harmony */
+}
+.bg-cardBg {
+    background-color: #2d5aa0;  /* Updated for better contrast */
+}
